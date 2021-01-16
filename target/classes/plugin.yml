@@ -1,0 +1,7 @@
+main: net.simplyrin.simpledeathban.Main
+name: SimpleDeathBan
+version: 1.0
+api-version: 1.16
+commands:
+  deathban:
+    description: DeathBan を管理するコマンド
